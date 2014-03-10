@@ -1,0 +1,5 @@
+10.25.1.60   mgmt mgmt.sqrawler.com
+10.25.1.61   backup backup.sqrawler.com
+10.25.1.62   ad ad.sqrawler.com
+10.25.1.63   db db.sqrawler.com
+10.25.1.64   app app.sqrawler.com
